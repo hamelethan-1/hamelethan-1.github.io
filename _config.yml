@@ -2,7 +2,6 @@ title: Ethan Hamel
 description: Engineering Portfolio
 theme: minima
 header_pages:
-  - about.md
   - research.md
   - capstone.md
   - parsec.md
